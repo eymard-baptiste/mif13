@@ -7,35 +7,35 @@ La liste est modifiable via un [pull request sur le repo github du cours](https:
 
 Cette liste est indicative, vous pouvez proposer d'autres sujets.
 
-| Sujets                        | Noms          | Date de passage  | Lien  |
-| ----------------------------- |:-------------:| ---------------- | ----- |
+| Sujets                        | Noms                          | Date de passage  | Lien  |
+| ----------------------------- |:-----------------------------:| ---------------- | ----- |
 | Firebase                      | nom de famille 1, nom de famille 2, nom de famille 3 |                  |       |
-| Hood.ie                       |               |                  |       |
-| Phantom.js                    |               |                  |       |
-| Web workers                   |               |                  |       |
-| Ember                         |               |                  |       |
-| Angular                       | keraghel, seguin, touatioui     |           |       |
-| React                         | CHAPUT, HERAUT, SACCHARIN |                  |       |
-| P5.js                         |               |                  |       |
-| D3.js                         |               |                  |       |
-| Preprocesseurs CSS            |               |                  |       |
-| Frameworks CSS                |               |                  |       |
-| Web RTC                       |               |                  |       |
-| IndexedDB                     |               |                  |       |
-| Frameworks de test en JS      |               |                  |       |
-| Web performance               |               |                  |       |
-| AB testing                    |               |                  |       |
-| WebAssembly                   | CURRANT, GRANDY, GUEUX              |                  |       |
-| TypeScript                    |               |                  |       |
-| JS Game Engines (ex: Crafty)  |               |                  |       |
-| Web GL                        |               |                  |       |
-| Meteor                        |               |                  |       |
-| Rendr                         |               |                  |       |
-| A-Fame                        |               |                  |       |
-| [Nightwatch](http://nightwatchjs.org/) |      |                  |       |
-| ...                           |               |                  |       |
-| ...                           |               |                  |       |
-| ...                           |               |                  |       |
+| Hood.ie                       |                               |                  |       |
+| Phantom.js                    |                               |                  |       |
+| Web workers                   |                               |                  |       |
+| Ember                         |                               |                  |       |
+| Angular                       | keraghel, seguin, touatioui   |                  |       |
+| React                         | CHAPUT, HERAUT, SACCHARIN     |                  |       |
+| P5.js                         | EYMARD, MICHON, ROBIN, VALLET |                  |       |
+| D3.js                         |                               |                  |       |
+| Preprocesseurs CSS            |                               |                  |       |
+| Frameworks CSS                |                               |                  |       |
+| Web RTC                       |                               |                  |       |
+| IndexedDB                     |                               |                  |       |
+| Frameworks de test en JS      |                               |                  |       |
+| Web performance               |                               |                  |       |
+| AB testing                    |                               |                  |       |
+| WebAssembly                   | CURRANT, GRANDY, GUEUX        |                  |       |
+| TypeScript                    |                               |                  |       |
+| JS Game Engines (ex: Crafty)  |                               |                  |       |
+| Web GL                        |                               |                  |       |
+| Meteor                        |                               |                  |       |
+| Rendr                         |                               |                  |       |
+| A-Fame                        |                               |                  |       |
+| [Nightwatch](http://nightwatchjs.org/) |                      |                  |       |
+| ...                           |                               |                  |       |
+| ...                           |                               |                  |       |
+| ...                           |                               |                  |       |
 
 
 <!-- Merci de maintenir un semblant de mise en page sur le tableau -->
