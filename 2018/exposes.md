@@ -34,6 +34,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | A-Fame                        |               |                  |       |
 | [Nightwatch](http://nightwatchjs.org/) |      |                  |       |
 | [Django](https://www.djangoproject.com/)     |  BOZON , BELZUNCE , RAMOS TUBINO , FRITSCH     |                  |       |
+| [Paper.js](http://paperjs.org/)|  EYMARD, MICHON, ROBIN, VALLET  |                  |       |
 | ...                           |               |                  |       |
 | ...                           |               |                  |       |
 | ...                           |               |                  |       |
