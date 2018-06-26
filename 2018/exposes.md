@@ -26,7 +26,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO, FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
 | RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |[Diapo](https://drive.google.com/file/d/1YZxZN_d5KOXG_U3ujlqQDgo0lTbSem53/view?usp=sharing)       |
 | CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
-| PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
+| PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |[Diapo](https://docs.google.com/presentation/d/e/2PACX-1vQuZ1u302mwJagkufGq96NqKIBa8YOMctF48U0zgOx0pXK0HOoeRQlXl0y9VcvQIHfQJb2mSwBiz_w8/pub?start=false&loop=false&delayms=10000)     |
 | PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
 | Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |[Diapo](https://drive.google.com/open?id=1e3oIuss8DzM20D2VwSqibvl4ULeTrniP)       |
 | Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |       |
